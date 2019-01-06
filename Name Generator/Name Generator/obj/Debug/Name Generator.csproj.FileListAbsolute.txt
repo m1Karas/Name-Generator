@@ -1,0 +1,9 @@
+c:\users\michal\documents\visual studio 2015\Projects\Name Generator\Name Generator\bin\Debug\Name Generator.exe.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\obj\Debug\Name Generator.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\obj\Debug\Name_Generator.Form1.resources
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\obj\Debug\Name_Generator.Properties.Resources.resources
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\obj\Debug\Name Generator.csproj.GenerateResource.Cache
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\bin\Debug\Name Generator.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\bin\Debug\Name Generator.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\obj\Debug\Name Generator.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Name Generator\Name Generator\obj\Debug\Name Generator.pdb
